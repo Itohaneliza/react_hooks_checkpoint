@@ -25,7 +25,7 @@ const info = [
     title: "John Wick",
     img: "/image/Jjohnwick.jpg",
     description:
-      "An exploration of our discovery of the laws of nature and coordinates in space and time.",
+      "When a gangster's son steals his car and kills his dog, fearless ex-hit man John Wick takes on the entire mob to get his revenge.",
     posterURL: "www.cosmos.com",
     rating: 9.3,
   },
